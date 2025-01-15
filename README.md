@@ -1,4 +1,4 @@
-# Video-Streaming-Service
+# Document Straming Platform
 
 The architecture of our project setup is as shown in the figure below. 
 
